@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Corsair Vengeance LPX DDR4 3000 C15 2x8GB",
+      "quality": 61,
+      "memory" : 16,
+      "price" : 3043
+    },
+    {
+        "name": "Corsair Vengeance LPX DDR4 3200 C16 2x8GB",
+        "quality": 61,
+        "memory" : 16,
+        "price" : 2435
+    },
+    {
+        "name": "G.SKILL Ripjaws V DDR4 3200 C16 2x8GB",
+        "quality": 55,
+        "memory" : 16,
+        "price" : 3652
+    },
+    {
+        "name": "HyperX Fury DDR4 2133 C14 1x8GB",
+        "quality": 52,
+        "memory" : 8,
+        "price" : 3387
+    },
+    {
+        "name": "Corsair Vengeance LPX DDR4 2400 C16 1x8GB",
+        "quality": 52,
+        "memory" : 8,
+        "price" : 1521
+    },
+    {
+        "name": "G.SKILL Ripjaws V DDR4 2133 C15 2x8GB",
+        "quality": 52,
+        "memory" : 16,
+        "price" : 2483
+    },
+    {
+        "name": "G.SKILL Ripjaws V DDR4 3200 C16 4x16GB",
+        "quality": 52,
+        "memory" : 64,
+        "price" : 8523
+    },
+    {
+        "name": "Corsair Vengeance LPX DDR4 2666 C16 4x8GB",
+        "quality": 52,
+        "memory" : 32,
+        "price" : 5783
+    }         
+]

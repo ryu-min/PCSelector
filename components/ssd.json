@@ -1,0 +1,64 @@
+[
+    {
+      "name": "Samsung 980 Pro NVMe PCIe M.2 1TB",
+      "quality": 68,
+      "memory" : 1024,
+      "price" : 4870
+    },
+
+    {
+      "name": "Samsung 980 Pro NVMe PCIe M.2 2TB",
+      "quality": 67,
+      "memory" : 2048,
+      "price" : 8523
+    },
+
+    {
+      "name": "Samsung 970 Evo Plus NVMe PCIe M.2 1TB",
+      "quality": 66,
+      "memory" : 1024,
+      "price" : 3652
+    },
+
+    {
+      "name": "Adata XPG SX8200 Pro NVMe PCIe M.2 512GB",
+      "quality": 62,
+      "memory" : 512,
+      "price" : 2912
+    },
+
+    {
+        "name": "HP EX950 NVMe PCIe M.2 2TB",
+        "quality": 62,
+        "memory" : 2048,
+        "price" : 12175
+    },
+  
+    {
+        "name": "Samsung 860 Evo 2TB",
+        "quality": 61,
+        "memory" : 2048,
+        "price" : 13394
+    },
+
+    {
+        "name": "Crucial MX500 250GB",
+        "quality": 60,
+        "memory" : 256,
+        "price" : 2000
+    },
+
+    {
+        "name": "HP EX950 NVMe PCIe M.2 512GB",
+        "quality": 59,
+        "memory" : 512,
+        "price" : 4626
+    },
+
+    {
+        "name": "Adata XPG SX8200 Pro NVMe PCIe M.2 256GB",
+        "quality": 58,
+        "memory" : 256,
+        "price" : 4293
+    }
+]

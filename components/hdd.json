@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Seagate Barracuda 1TB (2016)",
+      "quality": 69,
+      "memory" : 1024,
+      "price" : 2130
+    },
+    {
+        "name": "WD Blue 1TB (2012)",
+        "quality": 64,
+        "memory" : 1024,
+        "price" : 1530
+    },
+    {
+        "name": "Seagate Barracuda 2TB (2016)",
+        "quality": 60,
+        "memory" : 2048,
+        "price" : 4261
+    },
+    {
+        "name": "WD Black 1TB (2013)",
+        "quality": 58,
+        "memory" : 1024,
+        "price" : 2279
+    },
+    {
+        "name": "Seagate Barracuda 4TB (2016)",
+        "quality": 57,
+        "memory" : 4096,
+        "price" : 4109
+    },
+    {
+        "name": " Seagate Barracuda 7200.14 3TB",
+        "quality": 55,
+        "memory" : 3000,
+        "price" : 4992
+    },
+    {
+        "name": "Toshiba DT01ACA300 3TB",
+        "quality": 54,
+        "memory" : 3000,
+        "price" : 6027
+    },
+    {
+        "name": "Toshiba DT01ACA100 1TB",
+        "quality": 53,
+        "memory" : 1024,
+        "price" : 2404
+    }          
+]

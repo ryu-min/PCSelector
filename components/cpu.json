@@ -1,0 +1,64 @@
+[
+    {
+      "name": "Intel Core i5-13600K",
+      "quality": 122,
+      "cores" : 14,
+      "price" : 18568
+    },
+    {
+        "name": "Intel Core i5-12600K",
+        "quality": 109,
+        "cores" : 10,
+        "price" : 14245
+    },
+      
+    {
+        "name": "Intel Core i3-12100F",
+        "quality": 94,
+        "cores" : 4 ,
+        "price" : 5844
+    },
+    {
+        "name": "Intel Core i9-13900K",
+        "quality": 129,
+        "cores" : 24,
+        "price" : 32814
+    },
+
+
+    {
+        "name": "AMD Ryzen 5 5600X",
+        "quality": 109,
+        "cores" : 10,
+        "price" : 32814
+    },
+    {
+        "name": "Intel Core i5-12600K",
+        "quality": 109,
+        "cores" : 10,
+        "price" : 14245
+    },
+    {
+        "name": "Intel Core i5-12600K",
+        "quality": 109,
+        "cores" : 10,
+        "price" : 14245
+    },
+    {
+        "name": "Intel Core i5-12600K",
+        "quality": 109,
+        "cores" : 10,
+        "price" : 14245
+    },
+    
+
+
+    {
+        "name": "my name 2",
+        "quality": 1,
+        "cores" : 3,
+        "price" : 2
+    },
+    {}
+
+]

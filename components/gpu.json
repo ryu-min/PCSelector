@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Nvidia RTX 3060",
+      "quality": 100,
+      "memory" : 8,
+      "price" : 20974
+    },
+    {
+        "name": "Nvidia RTX 4070-Ti",
+        "quality": 98,
+        "memory" : 12,
+        "price" : 48703
+    },
+    {
+        "name": "Nvidia RTX 3060-Ti",
+        "quality": 98,
+        "memory" : 8,
+        "price" : 24047
+    },
+    {
+        "name": "Nvidia GTX 1660S (Super)",
+        "quality": 96,
+        "memory" : 6,
+        "price" : 16437
+    },
+    {
+        "name": "Nvidia RTX 2060",
+        "quality": 87,
+        "memory" : 6,
+        "price" : 18872
+    },
+    {
+        "name": "Nvidia RTX 2060S (Super)",
+        "quality": 85,
+        "memory" : 8,
+        "price" : 31658
+    },
+    {
+        "name": "Nvidia GTX 1050-Ti",
+        "quality": 80,
+        "memory" : 4,
+        "price" : 11688
+    },
+    {
+        "name": "AMD RX 580",
+        "quality": 98,
+        "memory" : 8,
+        "price" : 11533
+    }
+]
